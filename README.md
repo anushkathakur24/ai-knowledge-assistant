@@ -65,7 +65,4 @@ TOP_K        = 4                 # how many chunks to retrieve per question
 - Swap ChromaDB for a hosted vector DB for multi-user deployments
 - Add conversation memory for follow-up questions
 
-## Demo script (for a client call)
-1. Upload the client's actual FAQ/handbook live on the call.
-2. Ask the exact question their team gets asked most.
-3. Show the answer arriving in seconds, with the source line highlighted.
+
